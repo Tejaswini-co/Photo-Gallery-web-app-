@@ -38,10 +38,3 @@ npm install
 ### 3. Run the development server
 ```bash
 npm run dev
-```
-
-### 4. Open Application
-Navigate to `http://localhost:5173` in your browser.
-
----
-*Built as a frontend engineering assignment focusing on code readability, strict requirement adherence, and modern React hook implementations.*
