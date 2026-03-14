@@ -4,7 +4,7 @@ A responsive, high-performance React web application that fetches and displays a
 
 ## ✨ Features
 
-- **API Integration:** Automatically fetches 30 high-resolution photos on load with comprehensive loading and error states.
+- **API Integration:** Automatically fetches 30 high-resolution photos on load from the [Picsum Photos API](https://picsum.photos/v2/list?limit=30) with comprehensive loading and error states.
 - **Responsive Design:** A beautiful Tailwind CSS grid layout tailored for Mobile (1 column), Tablet (2 columns), and Desktop (4 columns).
 - **Real-Time Search:** Instantaneous client-side filtering by author name without redundant network requests.
 - **Persistent Favourites:** Users can "heart" their favorite photos. State is aggressively managed and automatically synced to browser `localStorage` to survive page refreshes.
